@@ -40,7 +40,7 @@ anyway here the commands you have to enter:
 To add some 'play' data you can run
 
     pip install -r test-requirements.txt
-    flask fill_db
+    flask fill-db
 
 Now you can browse the API:
 http://localhost:5000/api/users
